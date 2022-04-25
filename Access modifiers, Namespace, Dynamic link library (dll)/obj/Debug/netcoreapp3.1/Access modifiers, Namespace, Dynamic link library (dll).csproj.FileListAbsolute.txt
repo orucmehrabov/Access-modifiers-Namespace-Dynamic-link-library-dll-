@@ -1,0 +1,2 @@
+C:\Users\Admin\source\repos\Access modifiers, Namespace, Dynamic link library (dll)\Access modifiers, Namespace, Dynamic link library (dll)\obj\Debug\netcoreapp3.1\Access modifiers, Namespace, Dynamic link library (dll).csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Access modifiers, Namespace, Dynamic link library (dll)\Access modifiers, Namespace, Dynamic link library (dll)\obj\Debug\netcoreapp3.1\Access modifiers, Namespace, Dynamic link library (dll).GeneratedMSBuildEditorConfig.editorconfig

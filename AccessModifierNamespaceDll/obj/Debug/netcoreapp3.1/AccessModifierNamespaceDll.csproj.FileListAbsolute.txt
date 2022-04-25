@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\Access modifiers, Namespace, Dynamic link library (dll)\AccessModifierNamespaceDll\bin\Debug\netcoreapp3.1\AccessModifierNamespaceDll.exe
+C:\Users\Admin\source\repos\Access modifiers, Namespace, Dynamic link library (dll)\AccessModifierNamespaceDll\bin\Debug\netcoreapp3.1\AccessModifierNamespaceDll.deps.json
+C:\Users\Admin\source\repos\Access modifiers, Namespace, Dynamic link library (dll)\AccessModifierNamespaceDll\bin\Debug\netcoreapp3.1\AccessModifierNamespaceDll.runtimeconfig.json
+C:\Users\Admin\source\repos\Access modifiers, Namespace, Dynamic link library (dll)\AccessModifierNamespaceDll\bin\Debug\netcoreapp3.1\AccessModifierNamespaceDll.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Access modifiers, Namespace, Dynamic link library (dll)\AccessModifierNamespaceDll\bin\Debug\netcoreapp3.1\AccessModifierNamespaceDll.dll
+C:\Users\Admin\source\repos\Access modifiers, Namespace, Dynamic link library (dll)\AccessModifierNamespaceDll\bin\Debug\netcoreapp3.1\AccessModifierNamespaceDll.pdb
+C:\Users\Admin\source\repos\Access modifiers, Namespace, Dynamic link library (dll)\AccessModifierNamespaceDll\obj\Debug\netcoreapp3.1\AccessModifierNamespaceDll.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Access modifiers, Namespace, Dynamic link library (dll)\AccessModifierNamespaceDll\obj\Debug\netcoreapp3.1\AccessModifierNamespaceDll.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Access modifiers, Namespace, Dynamic link library (dll)\AccessModifierNamespaceDll\obj\Debug\netcoreapp3.1\AccessModifierNamespaceDll.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Access modifiers, Namespace, Dynamic link library (dll)\AccessModifierNamespaceDll\obj\Debug\netcoreapp3.1\AccessModifierNamespaceDll.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Access modifiers, Namespace, Dynamic link library (dll)\AccessModifierNamespaceDll\obj\Debug\netcoreapp3.1\AccessModifierNamespaceDll.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Access modifiers, Namespace, Dynamic link library (dll)\AccessModifierNamespaceDll\obj\Debug\netcoreapp3.1\AccessModifierNamespaceDll.dll
+C:\Users\Admin\source\repos\Access modifiers, Namespace, Dynamic link library (dll)\AccessModifierNamespaceDll\obj\Debug\netcoreapp3.1\AccessModifierNamespaceDll.pdb
+C:\Users\Admin\source\repos\Access modifiers, Namespace, Dynamic link library (dll)\AccessModifierNamespaceDll\obj\Debug\netcoreapp3.1\AccessModifierNamespaceDll.genruntimeconfig.cache
